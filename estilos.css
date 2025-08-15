@@ -74,4 +74,26 @@ h1 {text-align: center;}
      top: 970px;                  
      left: 300px;      
 } 
-     
+
+.p4 {
+    position: absolute; 
+     top: 550px;         
+     left: 940px;       
+     background-color: yellow;
+     } 
+
+.i4 {
+     position: absolute;
+     width: 370px ;
+     top: 600px; ;
+     left: 830px; ;
+     border: 3px solid black;
+    }
+
+.t4 {   
+     position: absolute;
+     font-size: 20px ;
+     top: 970px;                  
+     left: 950px;      
+} 
+
